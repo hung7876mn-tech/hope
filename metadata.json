@@ -1,0 +1,8 @@
+{
+  "name": "Hope",
+  "description": "Hệ thống lá chắn niềm tin chống Deepfake và tin giả, bảo mật tuyệt đối không cần đăng nhập.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
